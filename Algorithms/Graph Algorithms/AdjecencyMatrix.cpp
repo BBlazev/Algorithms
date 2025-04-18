@@ -70,8 +70,7 @@ public:
 
 int main() {
 
-	// Correct constructor signature example:
-	// Graph<int> graph(5, false, 0);
+	
 	Graph<int> graph(5, true, 0);
 
 	graph.addEdge(0, 1, 5);
