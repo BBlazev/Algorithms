@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Visualizer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\Visualizer\main.cpp(13,47): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\Visualizer\main.cpp(13,47): warning C4244:         with
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\Visualizer\main.cpp(13,47): warning C4244:         [
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\Visualizer\main.cpp(13,47): warning C4244:             _Ty=int
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\Visualizer\main.cpp(13,47): warning C4244:         ]
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\Visualizer\main.cpp(13,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\Visualizer\main.cpp(13,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 108 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Visualizer.vcxproj -> C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizer\x64\Release\QuickSort Visualizer.exe
