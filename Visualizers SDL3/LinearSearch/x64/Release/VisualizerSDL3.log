@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\VisualizerSDL3\Source.cpp(19,49): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\VisualizerSDL3\Source.cpp(19,49): warning C4244:         with
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\VisualizerSDL3\Source.cpp(19,49): warning C4244:         [
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\VisualizerSDL3\Source.cpp(19,49): warning C4244:             _Ty=int
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\VisualizerSDL3\Source.cpp(19,49): warning C4244:         ]
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\VisualizerSDL3\Source.cpp(19,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\VisualizerSDL3\Source.cpp(19,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  3 of 178 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VisualizerSDL3.vcxproj -> C:\Users\Bartol\Desktop\Data structures and algorithms\Visualizers SDL3\QuickSort\x64\Release\VisualizerSDL3.exe
